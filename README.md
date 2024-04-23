@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **industrial applications of ML.**
 
-- 👨‍💻 All of my projects are available at [here!](here!)
+- 👨‍💻 All of my projects are available at [here!](https://github.com/jelacicedin?tab=repositories)
 
 - 📫 How to reach me **jelacic.edin@gmail.com**
 
