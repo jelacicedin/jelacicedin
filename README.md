@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edin Jelačić</h1>
-<h3 align="center">A Machine Learning Developer and former Software Engineer from Bosnia and Herzegovina, currently doing research at Mälardalen University of Sweden.</h3>
+<h3 align="center">A Machine Learning Developer and former Software Engineer from Bosnia and Herzegovina, currently doing research at Mälardalen University of Sweden 🇸🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jelacicedin&label=Profile%20views&color=0e75b6&style=flat" alt="jelacicedin" /> </p>
 
